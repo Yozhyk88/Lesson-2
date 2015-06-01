@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Task1MAZAFAKA</title>
+
+</head>
+
+<body>
+<form action="script.php" method="post">
+	<strong>Введіть число</strong>	
+	<input type="number" name="number1" required>
+	<select name="operator" required>
+		<option>Корінь</option>
+		<option>Степінь</option>
+		
+	
+	</select>	
+	
+	
+</form>
+</body>
+
+
+</html>
